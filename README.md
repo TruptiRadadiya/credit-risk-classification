@@ -39,28 +39,28 @@ The machine learning process included the following stages:
 
 - <strong>Machine Learning Model 1:</strong> Logistic Regression
 
-  - <strong>Accuracy:</strong> The model's accuracy score was `0.99`.
-  - <strong>Precision:</strong> The precision score for predicting high-risk loans was `0.87`.
-  - <strong>Recall:</strong> The recall score for predicting high-risk loans was `0.89`.
+- <strong>Accuracy:</strong> The model's accuracy score was `0.99`.
+- <strong>Precision:</strong> The precision score for predicting high-risk loans was `0.87`.
+- <strong>Recall:</strong> The recall score for predicting high-risk loans was `0.89`.
 
-  - <strong>Confusion Matrix</strong>
+- <strong>Confusion Matrix</strong>
 
-    - <strong>True Positives (TP):</strong> 556
-    - <strong>True Negatives (TN):</strong> 18759
-    - <strong>False Positives (FP):</strong> 69
-    - <strong>False Negatives (FN):</strong> 69
+- <strong>True Positives (TP):</strong> 556
+- <strong>True Negatives (TN):</strong> 18759
+- <strong>False Positives (FP):</strong> 69
+- <strong>False Negatives (FN):</strong> 69
 
-  - <strong>Classification Report</strong>
+- <strong>Classification Report</strong>
 
-    - <strong>Precision:</strong>
-      - <strong>Healthy loans (0):</strong> 1.00
-      - <strong>High-risk loans (1):</strong> 0.87
-    - <strong>Recall:</strong>
-      - <strong>Healthy loans (0):</strong> 1.00
-      - <strong>High-risk loans (1):</strong> 0.89
-    - <strong>F1 Score:</strong>
-      - <strong>Healthy loans (0):</strong> 1.00
-      - <strong>High-risk loans (1):</strong> 0.88
+- <strong>Precision:</strong>
+  - <strong>Healthy loans (0):</strong> 1.00
+  - <strong>High-risk loans (1):</strong> 0.87
+- <strong>Recall:</strong>
+  - <strong>Healthy loans (0):</strong> 1.00
+  - <strong>High-risk loans (1):</strong> 0.89
+- <strong>F1 Score:</strong>
+  - <strong>Healthy loans (0):</strong> 1.00
+  - <strong>High-risk loans (1):</strong> 0.88
 
 ## Summary
 
